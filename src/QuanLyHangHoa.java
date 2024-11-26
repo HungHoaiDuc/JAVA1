@@ -8,7 +8,7 @@ public class QuanLyHangHoa {
 
     Scanner sc = new Scanner(System.in);
 
-    public void menu() {
+    public void mainMenu() {
         while (true) {
             System.out.println("\n----- Nhập thêm hàng hóa -----");
             System.out.println("1. Hàng hóa thông dụng");

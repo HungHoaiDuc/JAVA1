@@ -1,4 +1,4 @@
-class HangHoa {
+    class HangHoa {
     private String ten;
     private String maHangHoa;
     private String nhaPhanPhoi;
